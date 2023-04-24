@@ -15,7 +15,7 @@ const MultipleChoiceScreen = () => {
   const [multipleChoiceQuestions, setMultipleChoiceQuestions] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:3000/questions")
+    fetch("https://damp-sands-89836.herokuapp.com/questions")
       .then((response) => response.json())
       .then((data) =>
         setMultipleChoiceQuestions(
