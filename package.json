@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "main": "App.js",
-  "homepage": "https://mandypfau.github.io/Portfolio",
+  "homepage": "http://mandypfau.github.io/Portfolio",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
