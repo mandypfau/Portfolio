@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Portfolio/static/js/main.c32bad68.js",
+    "static/js/565.ba36164c.js": "/Portfolio/static/js/565.ba36164c.js",
+    "index.html": "/Portfolio/index.html",
+    "manifest.json": "/Portfolio/manifest.json",
+    "serve.json": "/Portfolio/serve.json",
+    "main.c32bad68.js.map": "/Portfolio/static/js/main.c32bad68.js.map",
+    "565.ba36164c.js.map": "/Portfolio/static/js/565.ba36164c.js.map"
+  },
+  "entrypoints": [
+    "static/js/565.ba36164c.js",
+    "static/js/main.c32bad68.js"
+  ]
+}
